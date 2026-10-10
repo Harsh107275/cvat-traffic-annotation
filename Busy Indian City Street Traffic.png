@@ -1,1 +1,33 @@
-traffic.jpg
+# Traffic Image Annotation Project
+
+## Project Overview
+This is a personal practice project created to learn and demonstrate image data annotation using CVAT (Computer Vision Annotation Tool).
+
+## Image Description
+The image represents a traffic scene used for object annotation practice.
+
+## Tools Used
+- CVAT (Computer Vision Annotation Tool)
+- COCO 1.0 annotation format
+- GitHub
+
+## Annotation Tasks
+- Object labeling
+- Bounding-box annotation
+- Identifying objects in a traffic scene
+- Following annotation guidelines
+
+## Dataset Files
+- `traffic.jpg` — Original practice image
+- `instances_default.json` — Exported annotation data in COCO format
+
+## Skills Demonstrated
+- Image data annotation
+- Object detection annotation concepts
+- Bounding-box labeling
+- Annotation data export and organization
+
+## Project Purpose
+The purpose of this project is to build practical experience in image annotation and develop skills relevant to computer vision datasets.
+
+**Project Type:** Personal Learning & Practice Project
